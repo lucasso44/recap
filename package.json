@@ -1,0 +1,22 @@
+{
+  "name": "recap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasso44/recap.git"
+  },
+  "author": "Lucas Lawes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasso44/recap/issues"
+  },
+  "homepage": "https://github.com/lucasso44/recap#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
